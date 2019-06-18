@@ -24,6 +24,9 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 **Note:** `SJFluidSegmentedControl` is not intended to be used from Objective-C. For an Objective-C version of this library, please refer to the [LUNSegmentedControl](https://github.com/LunApps/LUNSegmentedControl).
 
+## Swift compatible version
+**To compatible with newest swift version, please check 'swift5' branch and use converted source code inside [Demo/TestSegmented](https://github.com/SonNguyen177/SJFluidSegmentedControl/tree/swift5/Demo/TestSegmented/TestSegmented/SJFluidSegmentedControl).**
+
 ## Features
 
 - [x] Easy to setup and use
